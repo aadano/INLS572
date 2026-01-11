@@ -1,7 +1,7 @@
 body {
     font-family: Verdana, sans-serif;
    font-size: .9em;
-   color: #2C4001;
+   color: #ffffff;
    background-color: #CD853F;
    margin: 0
 }
@@ -12,4 +12,5 @@ h1 {font-family: Verdana, sans-serif;
 img {
   max-width: 100%;
   height: auto;
+
 }
